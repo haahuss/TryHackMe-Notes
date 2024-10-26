@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"cf0ad6a2c6f4743e","type":"file","file":"Pasted image 20241026170641.png","x":-440,"y":-240,"width":400,"height":209},
+		{"id":"0724bde5fc772e69","type":"file","file":"Pasted image 20241026170828.png","x":60,"y":-240,"width":400,"height":395,"color":"6"},
+		{"id":"3001f9d51c35ba9c","type":"text","text":"Homepage","x":-440,"y":-31,"width":250,"height":60},
+		{"id":"aa7aec20eea14109","type":"file","file":"Pasted image 20241026170903.png","x":-440,"y":-440,"width":398,"height":52},
+		{"id":"1980cddd83cf5dd5","type":"text","text":"nmap scan","x":-440,"y":-388,"width":250,"height":60},
+		{"id":"cce2a00b55f26305","type":"text","text":"Apache not vulnerable","x":60,"y":155,"width":250,"height":60},
+		{"id":"d045a0c9507581b1","type":"file","file":"Pasted image 20241026170958.png","x":60,"y":300,"width":400,"height":83},
+		{"id":"30cb38e488f8bed2","type":"text","text":"robots.txt found nothing","x":60,"y":383,"width":250,"height":60},
+		{"id":"6e785209833e4d35","type":"text","text":"# 50000","x":690,"y":-364,"width":250,"height":60},
+		{"id":"e25cbeaf2d785cdb","type":"file","file":"Pasted image 20241026175209.png","x":690,"y":-240,"width":400,"height":227},
+		{"id":"c3be24f2a1e54cae","type":"file","file":"Pasted image 20241026180019.png","x":690,"y":58,"width":400,"height":97},
+		{"id":"a2ace5acf1ac7f93","type":"file","file":"Pasted image 20241026180241.png","x":690,"y":215,"width":399,"height":166},
+		{"id":"63680f0e9b601577","type":"text","text":"# 80","x":60,"y":-358,"width":250,"height":60},
+		{"id":"b17ca3e3886201ef","type":"file","file":"Pasted image 20241026184334.png","x":-15,"y":761,"width":400,"height":183},
+		{"id":"e188f243a1ff612b","type":"file","file":"Pasted image 20241026184351.png","x":-15,"y":1020,"width":397,"height":31},
+		{"id":"c4a9fe75c905cbc1","type":"text","text":"plugin installed","x":1200,"y":731,"width":250,"height":60},
+		{"id":"93a813a47d5936a2","type":"file","file":"Pasted image 20241026184637.png","x":560,"y":777,"width":400,"height":152},
+		{"id":"4f85a5ac9b564a65","type":"file","file":"Pasted image 20241026184723.png","x":1200,"y":791,"width":400,"height":143},
+		{"id":"b47f7f1bade65636","type":"file","file":"Pasted image 20241026184826.png","x":-500,"y":761,"width":400,"height":263},
+		{"id":"1a524c665aeb798a","type":"text","text":"homepage","x":-500,"y":701,"width":250,"height":60},
+		{"id":"0cfd700cbf789f60","type":"text","text":"backdoor user","x":-15,"y":701,"width":250,"height":60},
+		{"id":"c56e8bf37bcf48d6","type":"text","text":"malicious package","x":560,"y":717,"width":250,"height":60}
+	],
+	"edges":[]
+}

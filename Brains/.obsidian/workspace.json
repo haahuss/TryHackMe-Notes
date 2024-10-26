@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "96e261aadf9d10f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "98690137df771ae8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2765c6e9fe429d6f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas notes.canvas",
+                "viewState": {
+                  "x": 548.2808176100627,
+                  "y": 348.4795597484277,
+                  "zoom": -0.7817226100278658
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "canvas notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4e95841bb26fc5b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ac6508f6e5b7871",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1242fa0b3344c385",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1d2db82a390e8aad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f69114c0ea9b828d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a4c6180a738e20c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b8b8ea3bee2fe15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ebc891223bf9e4d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "6925ec57887209db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "ca3b23c8efc4b99a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "573e9c84994430de",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2765c6e9fe429d6f",
+  "lastOpenFiles": [
+    "General Notes.md",
+    "Pasted image 20241026170641.png",
+    "Pasted image 20241026170828.png",
+    "nmap (tcp) scan.md",
+    "gobuster.md",
+    "canvas notes.canvas"
+  ]
+}

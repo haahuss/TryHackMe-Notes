@@ -1,0 +1,18 @@
+1. if you can run vi as a root,
+sudo vi
+:!sh
+
+2. if you can edit the /etc/passwd file,
+add a user to the file 
+create a pass hash:
+openssl passwd -1 -salt [salt] [password]
+[user]:[passhash]:0:0:root:/root:/bin/bash
+
+3. shell is an SUID bit file,
+running it will give us root shell
+(shell is a previously made file)
+
+4. if you can edit a root owned executable,
+see what is does 
+imitate it in tmp by putting /bin/bash into the command we're immitating
+go back to the directory of the executable and run it
