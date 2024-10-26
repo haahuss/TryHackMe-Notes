@@ -1,7 +1,9 @@
-# TryHackMe Room Name: Brains
+# Brains
 
-![[Pasted image 20241026191605.png]]
- Room Link: https://tryhackme.com/r/room/brains 
+![image](https://github.com/user-attachments/assets/7768bd0d-0e19-4da3-947c-2dc2a863c28f)
+
+
+Room Link: https://tryhackme.com/r/room/brains 
 # Red: Exploit the Server
 
 **Goal: Get the contents of the User Flag**
@@ -28,7 +30,7 @@ To do this we will use the "Search & Reporting" feature of Splunk
 Since we're looking for users, we will search the auth.log logs in `/var/log/auth.log`
 
 ## Malicious Package installed
-Installed packages are generally logged at `/var/log/dpkg.log`, so that's where we look. 
+Installed packages are generally logged at `/var/log/dpkg.log`, so that's where we look.    
 ❗We'll make sure to look for packages installed around the same time frame as the backdoored user so that it's easier to find the malicious package.
 
 ## Plugin Installed on Server
