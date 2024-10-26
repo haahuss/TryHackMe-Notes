@@ -15,13 +15,33 @@
               "state": {
                 "file": "canvas notes.canvas",
                 "viewState": {
-                  "x": 548.2808176100627,
-                  "y": 348.4795597484277,
-                  "zoom": -0.7817226100278658
+                  "x": 1323.213961918119,
+                  "y": 895.3176716745616,
+                  "zoom": 1
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "canvas notes"
+            }
+          }
+        ]
+      },
+      {
+        "id": "79e93e191521c2a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44e8e42114d6f4b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Readme"
             }
           }
         ]
@@ -80,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a4c6180a738e20c7",
@@ -161,13 +182,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2765c6e9fe429d6f",
+  "active": "44e8e42114d6f4b5",
   "lastOpenFiles": [
+    "canvas notes.canvas",
+    "Pasted image 20241026184723.png",
+    "Readme.md",
+    "Rapid7 blog.md",
+    "Pasted image 20241026191605.png",
+    "Pasted image 20241026184826.png",
+    "Pasted image 20241026191508.png",
+    "Pasted image 20241026191517.png",
     "General Notes.md",
     "Pasted image 20241026170641.png",
     "Pasted image 20241026170828.png",
     "nmap (tcp) scan.md",
-    "gobuster.md",
-    "canvas notes.canvas"
+    "gobuster.md"
   ]
 }
